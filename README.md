@@ -7,8 +7,7 @@
 
 
 # 📊 GitHub Stats:
-!(https://github-readme-streak-stats-eight.vercel.app?user=SamVerse&theme=chartreuse-dark&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=SamVerse&theme=chartreuse-dark&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 ---
 
 ## 💰 You can help me by Donating
